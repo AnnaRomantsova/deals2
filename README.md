@@ -1,3 +1,3 @@
-# deals2
-Система управления закупками рабочий вариант. сайт stat.cktt.ru
+# Deals2
+Procurement management system (alpha version). Site http://stat.cktt.ru
 
